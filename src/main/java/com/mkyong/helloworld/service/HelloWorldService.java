@@ -13,7 +13,7 @@ public class HelloWorldService {
 	public String getDesc() {
 
 		logger.debug("getDesc() is executed!");
-		System.out.println("added gradle");
+		System.out.println("added gradle again");
 
 		return "Gradle + Spring MVC Hello World Example";
 
